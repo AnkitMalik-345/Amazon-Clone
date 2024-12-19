@@ -161,3 +161,42 @@
 .cart-icon i{
     font-size: 24px;
 }
+
+/* PANEL */
+
+.panel-all{
+    height: 40px;
+    background-color:#222f3d;
+    display: flex;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.panel-option p {
+    display: inline-block;
+    padding-left: 15px;
+}
+.panel-option{
+    width: 72%;
+    font-size: 0.90em;
+}
+.panel-menu{
+    width: 59px;
+    height: 34px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1em;
+    font-weight: 700;
+}
+.panel-deals{
+    width: 210px;
+    height: 34px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1em;
+    font-weight: 700;
+}
